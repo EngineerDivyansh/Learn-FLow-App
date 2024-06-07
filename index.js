@@ -9,3 +9,7 @@ function getName() {
 function is18(){
     return age>=18;
 }
+
+function hello(){
+    console.log("hello");
+}
