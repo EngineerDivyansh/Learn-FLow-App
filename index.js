@@ -15,5 +15,5 @@ function hello(){
 }
 
 function newFeaturePrac(){
-    console.log("New Feature to prac")
+    console.log("New Feature to prac1")
 }
