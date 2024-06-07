@@ -13,3 +13,7 @@ function is18(){
 function hello(){
     console.log("hello");
 }
+
+function newFeaturePrac(){
+    console.log("New Feature to prac")
+}
