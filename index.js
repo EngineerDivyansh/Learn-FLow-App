@@ -16,4 +16,5 @@ function hello(){
 
 function newFeat(){
     console.log("A");
+    console.log("B");
 }
