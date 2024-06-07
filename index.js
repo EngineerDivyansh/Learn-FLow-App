@@ -14,3 +14,6 @@ function hello(){
     console.log("hello");
 }
 
+function newFeat(){
+    console.log("A");
+}
