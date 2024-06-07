@@ -3,5 +3,9 @@ const name="Divyansh Patel"
 const dob="10/07/2002"
 
 function getName() {
-    console.log("My name is "+name);
+    console.log("My name is "+name1);
+}
+
+function is18(){
+    return age>=18;
 }
